@@ -170,6 +170,10 @@ slot.label_confirm  = "Cancel?"
 
 ---
 
+## Support
+
+![support](jzfp.png)
+
 ## License
 
 MIT
