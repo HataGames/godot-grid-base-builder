@@ -1,0 +1,12 @@
+# Godot
+.godot/
+*.uid
+
+# Export
+export/
+*.pck
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
